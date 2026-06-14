@@ -11,7 +11,7 @@
 
 ### `< Mohammed Razik />` — Building the web, one commit at a time.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+Tool+Builder;Founder+%40+ZikZik+Studio;ECE+Student+%40+BSA+Crescent;SwiftUI+%26+iOS+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI+%26+IoT+Builder;Founder+%40+ZikZik+Studio;ECE+Student+%40+BSA+Crescent;Food+Safety+Tech+%7C+Shas+Det;SwiftUI+%26+iOS+Explorer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -56,9 +56,27 @@ const razik = {
 <td width="50%">
 
 ### 🌾 FarmGrow AI
-A platform built to help farmers with **crop insights, growth tracking**, and simple AI-powered tools — bridging technology with agriculture.
+A platform built to help farmers with **crop insights, growth tracking**, and AI-powered **image recognition** for disease detection — bridging computer vision with real agriculture challenges.
 
-`Python` `Flask` `AI` `React`
+`Python` `Flask` `AI` `Image Recognition` `React`
+
+</td>
+<td width="50%">
+
+### 🥩 Shas Det — Food Safety Startup
+A **smart meat freshness detection** system using gas sensors and IoT. Built hardware + software to monitor spoilage in real-time, classify freshness, and surface insights through an **interactive web platform**.
+
+`IoT` `Gas Sensors` `Python` `React` `Data Visualization`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎯 Padi Da
+A **productivity & focus platform** built for students — helping them manage time, reduce distraction, and stay consistent with their study goals through smart tools and habit tracking.
+
+`Next.js` `React` `Firebase` `JavaScript`
 
 </td>
 <td width="50%">
@@ -73,36 +91,18 @@ An **anonymous messaging app** with secure message flow, reveal logic, and thoug
 <tr>
 <td width="50%">
 
-### 🎓 MCQify
-A smart tool that **auto-generates MCQ quizzes** from any content — built for students and educators who want faster assessment creation.
-
-`AI` `React` `Node.js`
-
-</td>
-<td width="50%">
-
 ### 📄 AI Insurance Claim Analyzer
 A **Flask application** that processes and analyzes insurance documents using AI — reducing manual review time significantly.
 
 `Python` `Flask` `AI` `PDF Processing`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📡 RFID Attendance System UI
 A **clean, minimal dashboard** for tracking student attendance via RFID — built for accuracy and ease of use for institutions.
 
 `React` `Firebase` `IoT`
-
-</td>
-<td width="50%">
-
-### 🔧 Engineering Mechanics Calculator
-A precise **resultant force calculator** built for ECE students — minimal interface, fast computation, no fluff.
-
-`JavaScript` `React` `CSS`
 
 </td>
 </tr>
@@ -140,12 +140,13 @@ A precise **resultant force calculator** built for ECE students — minimal inte
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**AI / ML**
+**AI / ML & Vision**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 
 **Design & Tools**
 
@@ -163,19 +164,52 @@ A precise **resultant force calculator** built for ECE students — minimal inte
 
 ---
 
-## 📊 GitHub Stats
+## 📅 My Journey So Far
+
+```text
+2024 ──────────────────────────────────────────────────────► 2026
+
+Jan 2024   Founded ZikZik Studio — freelance web & AI dev
+           ████████████████████████████████████████████████
+
+Aug 2024   Started B.Tech ECE @ BSA Crescent Institute
+           ████████████████████████████████████████
+
+2025       Built FarmGrow AI — image recognition + crop insights
+           ████████████████████████████████
+
+2025       Joined Crescent Innovation & Startup Club
+           ████████████████████████
+
+2025       Shas Det — Food Safety Startup (IoT + Web + Sensors)
+           ████████████████████
+
+2025–26    Padi Da — Student Productivity & Focus Platform
+           ████████████████
+
+2026       Exploring SwiftUI & iOS App Development
+           ██████████ → building...
+```
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=razzikk09-zikzik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=razzikk09-zikzik&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=razzikk09-zikzik&theme=tokyonight&hide_border=true" height="165"/>
+[![Razik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=razzikk09-zikzik&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=razzikk09-zikzik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=6366F1&currStreakLabel=6366F1" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=razzikk09-zikzik&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="160"/>
+
+</div>
+
+> 💡 *Most of my active work lives in private repos at ZikZik Studio — client projects, SaaS builds, and startup work that keep the contribution calendar green but the public commit count modest.*
 
 ---
 
@@ -193,11 +227,14 @@ A precise **resultant force calculator** built for ECE students — minimal inte
 
 ---
 
-## 📈 Contribution Activity
+## 🌐 Portfolio
 
 <div align="center">
 
-[![Razik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=razzikk09-zikzik&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Portfolio Preview](https://img.shields.io/badge/🚀_Live_Portfolio-Click_to_Visit-6366F1?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://zikzik-portfolio.vercel.app/)
+
+> **[zikzik-portfolio.vercel.app](https://zikzik-portfolio.vercel.app/)** — Projects, case studies, and more.  
+> Built with **Next.js · Tailwind · Framer Motion · Three.js**
 
 </div>
 
@@ -212,6 +249,14 @@ A precise **resultant force calculator** built for ECE students — minimal inte
 [![Email Me](https://img.shields.io/badge/📩_Email_Me-razzikk09@gmail.com-6366F1?style=for-the-badge)](mailto:razzikk09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/razikk09)
 [![Portfolio](https://img.shields.io/badge/View-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zikzik-portfolio.vercel.app/)
+
+<br/>
+
+### 💰 Support My Work
+
+*If something I built helped you, or you just want to cheer me on — a small donation goes a long way!*
+
+[![PayPal](https://img.shields.io/badge/Donate_via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RazikMohammed09)
 
 <br/>
 
