@@ -1,17 +1,11 @@
 <div align="center">
 
-```
-██████╗  █████╗ ███████╗██╗██╗  ██╗
-██╔══██╗██╔══██╗╚══███╔╝██║██║ ██╔╝
-██████╔╝███████║  ███╔╝ ██║█████╔╝ 
-██╔══██╗██╔══██║ ███╔╝  ██║██╔═██╗ 
-██║  ██║██║  ██║███████╗██║██║  ██╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
-```
+<!-- ANIMATED HERO BANNER — save hero.svg in same repo and reference it -->
+<img src="./hero.svg" width="100%" alt="Mohammed Razik — Full Stack Dev · AI Builder · IoT Hacker"/>
 
-### `< Mohammed Razik />` — Building the web, one commit at a time.
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI+%26+IoT+Builder;Founder+%40+ZikZik+Studio;ECE+Student+%40+BSA+Crescent;Food+Safety+Tech+%7C+Shas+Det;SwiftUI+%26+iOS+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=818CF8&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI+%26+IoT+Builder;Founder+%40+ZikZik+Studio;ECE+Student+%40+BSA+Crescent;Food+Safety+Tech+%7C+Shas+Det;Electronics+Enthusiast;SwiftUI+%26+iOS+Explorer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,28 +18,25 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5e2d4bedf3bbde2d7ccae46e8/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623134622f313534313538303631313632342d5445584f4c4f47494553544f52455445442f6b6531375a77644f4e4e4f574f484944484964414155593648374a4b5230327a49344a4a4c5a6234596f774b614c574a3041395046326349555431415757363545616a42454c394c535649315855414244796f475a497050494342385a617a49356a5931654f765a546865476b7a3034754b72764f4c6f6c36474e566553537a334f674d5a5944304d4d366e6c5172374a61454c414254424b6c3241304f554d374c4c314e454a65654c6144614c7338494a64786e68344a3430596c497843325a7930534a33614a464c7a394d566e514c795a6c564c30754258597a4d7341496155636b5959512f676f636f64696e672e676966"/>
-
 ## 👋 Hey, I'm Razik
 
-I'm a **Full-Stack Developer** and **ECE Student** at BSA Crescent Institute, Chennai — obsessed with turning ideas into real, working products.
+I'm a **Full-Stack Developer**, **Electronics & Computer Engineering student** at BSA Crescent Institute, and a hands-on **IoT / hardware builder** — obsessed with making things that actually work, whether that's a web app, a sensor circuit, or a full startup product.
 
-I founded **ZikZik Studio** — a small but sharp freelance agency where I build web apps, AI-powered tools, and SaaS products that are **fast, clean, and genuinely useful**.
+I founded **ZikZik Studio** — a freelance agency building clean web apps, AI tools, and SaaS products. I also contribute to **Shas Det**, a food safety startup using gas sensors and real-time IoT to detect meat spoilage before it reaches the consumer.
 
-Currently expanding into **iOS development with SwiftUI**, because why stop at the web?
+Currently expanding into **SwiftUI & iOS development**, because the hardware and software worlds are converging — and I want to be at that intersection.
 
 ```js
 const razik = {
   location: "Chennai, Tamil Nadu 🇮🇳",
   studying:  "B.Tech ECE @ BSA Crescent (2024–2028)",
-  building:  "ZikZik Studio — freelance web & AI products",
+  building:  ["ZikZik Studio", "Shas Det (Food Safety IoT)", "Padi Da"],
+  hardware:  ["Arduino", "Raspberry Pi", "Gas Sensors", "RFID", "Embedded C"],
   learning:  ["SwiftUI", "iOS Development", "Machine Learning"],
   openTo:    ["Freelance", "Internships", "Collabs", "Startups"],
   funFact:   "I design the UI before I write a single line of code 🎨"
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -56,7 +47,7 @@ const razik = {
 <td width="50%">
 
 ### 🌾 FarmGrow AI
-A platform built to help farmers with **crop insights, growth tracking**, and AI-powered **image recognition** for disease detection — bridging computer vision with real agriculture challenges.
+Platform helping farmers with **crop insights, growth tracking**, and AI-powered **image recognition** for plant disease detection — bridging computer vision with real agriculture.
 
 `Python` `Flask` `AI` `Image Recognition` `React`
 
@@ -64,9 +55,11 @@ A platform built to help farmers with **crop insights, growth tracking**, and AI
 <td width="50%">
 
 ### 🥩 Shas Det — Food Safety Startup
-A **smart meat freshness detection** system using gas sensors and IoT. Built hardware + software to monitor spoilage in real-time, classify freshness, and surface insights through an **interactive web platform**.
+**Smart meat freshness detection** using gas sensors + IoT. Built hardware & software — real-time spoilage monitoring, freshness classification, interactive web dashboard.
 
 `IoT` `Gas Sensors` `Python` `React` `Data Visualization`
+
+🌐 [shas-det.vercel.app](https://shas-det.vercel.app/) · 📊 [Live Dashboard](https://freshness-meat-detector.vercel.app/)
 
 </td>
 </tr>
@@ -74,7 +67,7 @@ A **smart meat freshness detection** system using gas sensors and IoT. Built har
 <td width="50%">
 
 ### 🎯 Padi Da
-A **productivity & focus platform** built for students — helping them manage time, reduce distraction, and stay consistent with their study goals through smart tools and habit tracking.
+**Productivity & focus platform** for students — time management, distraction reduction, habit tracking, and smart study tools built around how students actually think.
 
 `Next.js` `React` `Firebase` `JavaScript`
 
@@ -82,7 +75,7 @@ A **productivity & focus platform** built for students — helping them manage t
 <td width="50%">
 
 ### 🤫 Whispr
-An **anonymous messaging app** with secure message flow, reveal logic, and thoughtful user-safety design baked in from day one.
+**Anonymous messaging app** with secure message flow, reveal logic, and thoughtful user-safety design baked in from day one.
 
 `Next.js` `Firebase` `JavaScript`
 
@@ -91,22 +84,42 @@ An **anonymous messaging app** with secure message flow, reveal logic, and thoug
 <tr>
 <td width="50%">
 
-### 📄 AI Insurance Claim Analyzer
-A **Flask application** that processes and analyzes insurance documents using AI — reducing manual review time significantly.
+### 📡 RFID Attendance System UI
+**Clean, minimal dashboard** for tracking student attendance via RFID hardware — built for accuracy and ease of use for institutions.
 
-`Python` `Flask` `AI` `PDF Processing`
+`React` `Firebase` `IoT` `Arduino`
 
 </td>
 <td width="50%">
 
-### 📡 RFID Attendance System UI
-A **clean, minimal dashboard** for tracking student attendance via RFID — built for accuracy and ease of use for institutions.
+### 📄 AI Insurance Claim Analyzer
+**Flask application** that processes and analyzes insurance documents using AI — cutting manual review time significantly.
 
-`React` `Firebase` `IoT`
+`Python` `Flask` `AI` `PDF Processing`
 
 </td>
 </tr>
 </table>
+
+---
+
+## ⚡ Electronics & IoT Work
+
+I'm not just a web developer — I build things in the physical world too. My electronics background is core to how I think about systems.
+
+```
+Hardware I've worked with:
+┌─────────────────────────────────────────────────────────┐
+│  🔌 Arduino Uno / Nano — sensor circuits, data logging  │
+│  🍓 Raspberry Pi      — edge computing, IoT gateways    │
+│  📡 RFID Modules       — attendance, access control     │
+│  🧪 Gas Sensors (MQ series) — Shas Det spoilage detect  │
+│  📟 LCD / OLED Displays  — embedded UI                  │
+│  🔧 Embedded C / Python  — firmware & sensor logic      │
+└─────────────────────────────────────────────────────────┘
+```
+
+> Certified in **Arduino (IIT Bombay)** · **Linux (IIT Bombay)** · **iOS App Dev**
 
 ---
 
@@ -148,6 +161,12 @@ A **clean, minimal dashboard** for tracking student attendance via RFID — buil
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
 
+**Hardware & IoT**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
+
 **Design & Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -156,11 +175,6 @@ A **clean, minimal dashboard** for tracking student attendance via RFID — buil
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=github-actions&logoColor=white)
-
-**Hardware & IoT**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 
 ---
 
@@ -197,19 +211,35 @@ Aug 2024   Started B.Tech ECE @ BSA Crescent Institute
 
 <div align="center">
 
-[![Razik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=razzikk09-zikzik&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Razik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=razzikk09-zikzik&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline%20%E2%80%94%20razzikk09-zikzik)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=razzikk09-zikzik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=6366F1&currStreakLabel=6366F1" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=razzikk09-zikzik&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=6366F1&currStreakLabel=6366F1" height="155"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=razzikk09-zikzik&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="160"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=razzikk09-zikzik&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="155"/>
 
 </div>
 
-> 💡 *Most of my active work lives in private repos at ZikZik Studio — client projects, SaaS builds, and startup work that keep the contribution calendar green but the public commit count modest.*
+> 💡 *Most of my active work lives in private repos — client projects, SaaS builds, IoT firmware, and startup work. The calendar is the real picture.*
+
+---
+
+## 🌐 Portfolio & Live Apps
+
+<div align="center">
+
+| 🚀 | Project | Live Link |
+|---|---|---|
+| 🌐 | Personal Portfolio | [zikzik-portfolio.vercel.app](https://zikzik-portfolio.vercel.app/) |
+| 🥩 | Shas Det — Food Safety | [shas-det.vercel.app](https://shas-det.vercel.app/) |
+| 📊 | Freshness Dashboard | [freshness-meat-detector.vercel.app](https://freshness-meat-detector.vercel.app/) |
+
+> Portfolio built with **Next.js · Tailwind · Framer Motion · Three.js**
+
+</div>
 
 ---
 
@@ -227,24 +257,11 @@ Aug 2024   Started B.Tech ECE @ BSA Crescent Institute
 
 ---
 
-## 🌐 Portfolio
-
-<div align="center">
-
-[![Portfolio Preview](https://img.shields.io/badge/🚀_Live_Portfolio-Click_to_Visit-6366F1?style=for-the-badge&logoColor=white&labelColor=0d1117)](https://zikzik-portfolio.vercel.app/)
-
-> **[zikzik-portfolio.vercel.app](https://zikzik-portfolio.vercel.app/)** — Projects, case studies, and more.  
-> Built with **Next.js · Tailwind · Framer Motion · Three.js**
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's build something great together
 
-*Open to freelance projects, startup collabs, and internship opportunities.*
+*Open to freelance projects, startup collabs, IoT builds, and internship opportunities.*
 
 [![Email Me](https://img.shields.io/badge/📩_Email_Me-razzikk09@gmail.com-6366F1?style=for-the-badge)](mailto:razzikk09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/razikk09)
@@ -254,7 +271,7 @@ Aug 2024   Started B.Tech ECE @ BSA Crescent Institute
 
 ### 💰 Support My Work
 
-*If something I built helped you, or you just want to cheer me on — a small donation goes a long way!*
+*If something I built helped you, or you just want to cheer me on — every bit counts!*
 
 [![PayPal](https://img.shields.io/badge/Donate_via-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RazikMohammed09)
 
