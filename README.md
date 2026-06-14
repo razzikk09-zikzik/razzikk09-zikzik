@@ -54,7 +54,7 @@ Platform helping farmers with **crop insights, growth tracking**, and AI-powered
 </td>
 <td width="50%">
 
-### 🥩 Shas Det — Food Safety Startup
+### 🥩 Shas Det — Food Safety Startup 
 **Smart meat freshness detection** using gas sensors + IoT. Built hardware & software — real-time spoilage monitoring, freshness classification, interactive web dashboard.
 
 `IoT` `Gas Sensors` `Python` `React` `Data Visualization`
